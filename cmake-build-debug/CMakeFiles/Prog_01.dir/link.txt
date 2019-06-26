@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Prog_01.dir/main.cpp.o CMakeFiles/Prog_01.dir/CTriangulo.cpp.o CMakeFiles/Prog_01.dir/CCuadrado.cpp.o CMakeFiles/Prog_01.dir/CHexagono.cpp.o CMakeFiles/Prog_01.dir/CPoligono.cpp.o  -o Prog_01 
